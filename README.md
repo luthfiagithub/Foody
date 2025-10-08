@@ -21,5 +21,7 @@
 
 ![Foody UI](https://github.com/user-attachments/assets/8c67d641-9611-4717-aca7-3e64783a72ba)
 
-## Author
-Foody UI Prototype made by [me ](https://github.com/luthfiagithub)
+## Developer
+Prototype Developed by **me** 💻  
+📧 [Email](mailto:luthfia.khairunnisa.s@gmail.com)  
+🔗 [GitHub](https://github.com/luthfiagithub)
