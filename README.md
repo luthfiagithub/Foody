@@ -4,7 +4,7 @@
 ---
 
 ## Prototype 
-🔗 https://www.figma.com/design/PtUbhdJ2gTFG89z7aoYAXO/Foody?node-id=0-1&t=mX1FcweShqBcs8iL-0
+🔗 https: [Foody Figma](//www.figma.com/design/PtUbhdJ2gTFG89z7aoYAXO/Foody?node-id=0-1&t=mX1FcweShqBcs8iL-0)
 
 ## Fitur (UI Prototype)  
 - **Homepage**: Menampilkan kategori dan rekomendasi makanan.
